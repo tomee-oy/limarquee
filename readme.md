@@ -53,7 +53,7 @@ limarquee.render({
 npm install
 npm run server
 ```
-And then, open with [locclhost:3333/index.html](locclhost:3333/index.html)
+And then, open with [localhost:3333/index.html](localhost:3333/index.html)
 
 ### Constribution to Limarquee
 More knowledge from [here](http://www.dowebok.com/188.html)
