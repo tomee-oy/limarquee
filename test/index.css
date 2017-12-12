@@ -1,0 +1,17 @@
+.limarquee {
+  width: 790px;
+  height: 200px;
+  margin: 100px auto;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 2px;
+  background: #044abe;
+  color: #fff;
+  
+}
+.limarquee.str_active {
+  background: #044abe;
+}
+li {
+  list-style: none;
+}
